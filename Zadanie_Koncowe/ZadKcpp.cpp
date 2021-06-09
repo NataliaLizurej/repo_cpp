@@ -62,7 +62,7 @@ class ZadKcpp {
                 int x = 1;
                 cout <<  przez_Referencje(x) << endl;
                 cout <<  przez_Wartosc(x) << endl;
-                cout << tablica << endl;
+                cout << tablica() << endl;
                 int *y = &x;
                 cout <<  przez_Wskaznik(y) << endl;
             }
