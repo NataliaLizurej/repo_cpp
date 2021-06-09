@@ -497,7 +497,7 @@ class ZadKcpp {
 
             void wybor(){
             int zm;
-            cout << "Ktora funkcje chcesz wybrac" << endl;
+            cout << "Ktora funkcje chcesz wybrac, 1 lub 2." << endl;
             cin >> zm;
             switch (zm)
             {
