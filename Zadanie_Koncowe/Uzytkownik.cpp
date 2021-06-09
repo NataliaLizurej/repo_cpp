@@ -22,6 +22,7 @@ private:
         cout <<"Operacje we/wy" << endl;
         cout <<"Klasy" << endl;
         cin >> x;
+        return x;
     }
 
 void cw(int liczba) {
